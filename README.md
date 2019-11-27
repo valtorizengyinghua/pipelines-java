@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ValtoriPala/HelloWorld/_apis/build/status/valtorizengyinghua.pipelines-java?branchName=master)](https://dev.azure.com/ValtoriPala/HelloWorld/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
